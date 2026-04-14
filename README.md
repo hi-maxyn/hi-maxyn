@@ -1,5 +1,5 @@
 ## Hi there 👋
-work in progress
+work in progress <br>
 like my skills
 <!--
 **hi-maxyn/hi-maxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
